@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a first year computer science student at Bilkent University.
+Hello I am Alp Eren Köken.I am a freshman year student at Bilkent University. My departmant is computer science.I graduated from Antalya Yusuf Ziya Öner Science High School.
 <!--
 **alpErenkoken/alpErenkoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
