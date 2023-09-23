@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am first year computer science student at Bilkent University
+I am a first year computer science student at Bilkent University.
 <!--
 **alpErenkoken/alpErenkoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
